@@ -6,3 +6,7 @@ Esta linea representa el primer commit por interfaz web en repositorio remoto en
 Esta linea representa el segundo commit por interfaz web en repositorio remoto en github.com
 
 Esta linea representa el primer commit por terminal a un repositorio remoto en github.com
+
+Esta linea representa el segundo commit por terminal a un repositorio remoto en github.com
+
+
