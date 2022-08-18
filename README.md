@@ -10,3 +10,6 @@ Esta linea representa el primer commit por terminal a un repositorio remoto en g
 Esta linea representa el segundo commit por terminal a un repositorio remoto en github.com
 
 Esta linea representa el primer commit con interfaz visual con GitHub Desktop
+
+Esta linea representa un commit por terminal en la carpeta Git para ejercitar git pull en GitHub Destop
+
